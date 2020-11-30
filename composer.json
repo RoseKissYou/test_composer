@@ -1,0 +1,18 @@
+{
+    "name": "abell/test_composer",
+    "description": "test composer",
+    "keywords": [
+        "tool",
+        "testcomposer",
+        "abell"
+    ],
+    "authors": [
+        {
+            "name": "rosekissyou",
+            "email": "onebenbenxiong@163.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "Apache2",
+    "require": {}
+}
