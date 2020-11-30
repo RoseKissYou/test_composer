@@ -14,5 +14,10 @@
         }
     ],
     "license": "Apache2",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abell\\": "src/Abell"
+        }
+    }
 }
