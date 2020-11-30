@@ -1,12 +1,25 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: 1234
+ * Date: 2019/4/28
+ * Time: 10:30
+ */
 
-namespace Abell\TestComposer;
+namespace Zxx\Test;
 
-class AeTools
-{
-    public static function hello()
+class Tools{
+
+    private $name;
+
+    public function __construct()
     {
-        return 'hello kitty';
+        
+    }
+
+    public static function show()
+    {
+        echo "Hello Word";
     }
 
     //递归实现侧边栏(层级从属关系)
